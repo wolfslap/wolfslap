@@ -24,4 +24,4 @@
   <img src="https://skillicons.dev/icons?i=spotify" />
 </a>
 
-- 🎵 **曲名** - アーティスト名
+- 🎵 **Survivor** - MAN WITH A MISSION
