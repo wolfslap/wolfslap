@@ -18,3 +18,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git,github,notion,vscode" />
 </p>
+
+### Music
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spotify" />
+</p>
