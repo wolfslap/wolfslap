@@ -1,8 +1,13 @@
-### 🐺 使用言語 / Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🐺 Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,cpp" />
+  </a>
+</p>
+
+### 💻 OS & Developer Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,vscode" />
   </a>
 </p>
