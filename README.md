@@ -20,6 +20,8 @@
 </p>
 
 ### Music
-<p align="left">
+<a href="https://open.spotify.com/track/4nV4f5EDYpinT53Ng7IbzE" target="_blank">
   <img src="https://skillicons.dev/icons?i=spotify" />
-</p>
+</a>
+
+- 🎵 **曲名** - アーティスト名
