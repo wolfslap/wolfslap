@@ -16,5 +16,5 @@
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,notion,vscode" />
 </p>
