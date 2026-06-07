@@ -18,10 +18,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git,github,notion,vscode" />
 </p>
-
-### Music
-<a href="https://open.spotify.com/track/4nV4f5EDYpinT53Ng7IbzE" target="_blank">
-  <img src="https://skillicons.dev/icons?i=spotify" />
-</a>
-
-- 🎵 **Survivor** - MAN WITH A MISSION
