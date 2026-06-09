@@ -1,4 +1,4 @@
-# Hi there, I'm wolfslap 🐺
+# Hi there, I'm wolfslap
 
 ---
 
